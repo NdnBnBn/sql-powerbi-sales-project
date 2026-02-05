@@ -9,7 +9,8 @@ Projet complet d’analyse des ventes pour un site e-commerce, utilisant SQL pou
 - Créer un dashboard interactif pour suivre les performances
 
 ## Données
-- Dataset : Online Retail
+- Dataset original : **Online Retail**  
+- Source : [UCI Machine Learning Repository](https://archive.ics.uci.edu/ml/datasets/online+retail)  
 - Colonnes : Invoice, order_date, Customer ID, StockCode, Quantity, Price, Country
 
 ## Dashboard Power BI
