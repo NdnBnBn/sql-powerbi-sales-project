@@ -10,8 +10,7 @@ Projet complet d’analyse des ventes pour un site e-commerce, utilisant SQL pou
 
 ## Données
 - Dataset : Online Retail
-- Colonnes : InvoiceNo, order_date, CustomerID, StockCode, Quantity, UnitPrice, Country
-- Transformation : création de `revenue_clean = Quantity * UnitPrice`
+- Colonnes : Invoice, order_date, Customer ID, StockCode, Quantity, Price, Country
 
 ## Dashboard Power BI
 - **Cards KPI** : Chiffre d’affaires total, Nombre de clients, Panier moyen
